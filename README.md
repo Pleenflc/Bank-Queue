@@ -1,2 +1,2 @@
 # Bank-Queue
-Bank queue number system with two web apps: Customer page to take, view, and print a queue ticket; Admin page for staff to update status and delete completed numbers. Improves organization and monitoring of customer flow.
+This project is a Bank Queue Number System with two separate web interfaces: one for customers and one for admins. The customer page allows users to take a queue number, display it, and print it. The admin page is used by bank staff to manage the queue, including updating the queue status and deleting numbers that have been completed. This system helps the bank organize and monitor customer flow more efficiently.
